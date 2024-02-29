@@ -1,0 +1,15 @@
+C:\Users\unakho\.vscode\TestingCalculatorLogic\bin\Debug\net7.0\TestingCalculatorLogic.exe
+C:\Users\unakho\.vscode\TestingCalculatorLogic\bin\Debug\net7.0\TestingCalculatorLogic.deps.json
+C:\Users\unakho\.vscode\TestingCalculatorLogic\bin\Debug\net7.0\TestingCalculatorLogic.runtimeconfig.json
+C:\Users\unakho\.vscode\TestingCalculatorLogic\bin\Debug\net7.0\TestingCalculatorLogic.dll
+C:\Users\unakho\.vscode\TestingCalculatorLogic\bin\Debug\net7.0\TestingCalculatorLogic.pdb
+C:\Users\unakho\.vscode\TestingCalculatorLogic\obj\Debug\net7.0\TestingCalculatorLogic.csproj.AssemblyReference.cache
+C:\Users\unakho\.vscode\TestingCalculatorLogic\obj\Debug\net7.0\TestingCalculatorLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unakho\.vscode\TestingCalculatorLogic\obj\Debug\net7.0\TestingCalculatorLogic.AssemblyInfoInputs.cache
+C:\Users\unakho\.vscode\TestingCalculatorLogic\obj\Debug\net7.0\TestingCalculatorLogic.AssemblyInfo.cs
+C:\Users\unakho\.vscode\TestingCalculatorLogic\obj\Debug\net7.0\TestingCalculatorLogic.csproj.CoreCompileInputs.cache
+C:\Users\unakho\.vscode\TestingCalculatorLogic\obj\Debug\net7.0\TestingCalculatorLogic.dll
+C:\Users\unakho\.vscode\TestingCalculatorLogic\obj\Debug\net7.0\refint\TestingCalculatorLogic.dll
+C:\Users\unakho\.vscode\TestingCalculatorLogic\obj\Debug\net7.0\TestingCalculatorLogic.pdb
+C:\Users\unakho\.vscode\TestingCalculatorLogic\obj\Debug\net7.0\TestingCalculatorLogic.genruntimeconfig.cache
+C:\Users\unakho\.vscode\TestingCalculatorLogic\obj\Debug\net7.0\ref\TestingCalculatorLogic.dll

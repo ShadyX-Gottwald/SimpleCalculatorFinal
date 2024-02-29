@@ -1,0 +1,22 @@
+
+                0123
+Sum Example -> (30+3)  
+
+MatchCollection Numbers and Match Signs Seperate.  
+
+15/02/24 ->   
+
+* Implement Minus operations in Calculator  ++
+* Change Data Type To Double , Cause Division Calculation will not be Accurate. ++
+* Implement Multiplication. Problems ? Precedence ? ++
+ -- How will The Solving of what comes first be Prioritised.  -- 
+
+ * Implement Division Operation in Calculator    ++
+
+ * Fix Matching Signs , Problem is including Minus in Sum. Program Freezes.  ++    
+
+ * Implement Generic And BigInteger into Calculation . 
+
+ * Integrate Test Code to Larger Project and Test it .  
+
+ * Implement Raising to the nth power  in Calculator. 2^2
